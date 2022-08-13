@@ -1,4 +1,4 @@
-# Lab7 ---ISP
+# Sorting and Salesman problem
 
 ## Observations
 
